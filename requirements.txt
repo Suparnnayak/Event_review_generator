@@ -1,9 +1,9 @@
-setuptools>=65.5.0
+setuptools
 wheel
-Flask==2.2.2
+Flask>=2.2.2
 gunicorn
 numpy
-gensim==4.3.2
-nltk==3.8.1
-pandas==1.5.3
-scikit-learn==1.2.2
+gensim
+nltk
+pandas
+scikit-learn
