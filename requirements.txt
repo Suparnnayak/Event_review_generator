@@ -2,7 +2,7 @@ setuptools>=65.5.0
 wheel
 Flask==2.2.2
 gunicorn
-numpy==1.24.4
+numpy
 gensim==4.3.2
 nltk==3.8.1
 pandas==1.5.3
